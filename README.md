@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skghosh87&show_icons=true&theme=radical" alt="skghosh87's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skghosh87&layout=compact&theme=radical" alt="skghosh87's Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skghosh87&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skghosh87&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
